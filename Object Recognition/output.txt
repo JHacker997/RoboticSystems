@@ -1,0 +1,142 @@
+class: duck
+query: ukbench00020.jpg
+score_color_hist: 3
+score_template_match: 1
+top4_color_hist: ['ukbench00020', 'ukbench00021', 'ukbench00023', 'ukbench09120']
+top4_template_match: ['ukbench00020', 'ukbench01494', 'ukbench00285', 'ukbench00286']
+
+class: duck
+query: ukbench00021.jpg
+score_color_hist: 3
+score_template_match: 2
+top4_color_hist: ['ukbench00021', 'ukbench00020', 'ukbench00023', 'ukbench09120']
+top4_template_match: ['ukbench00021', 'ukbench00023', 'ukbench00287', 'ukbench09122']
+
+class: duck
+query: ukbench00022.jpg
+score_color_hist: 1
+score_template_match: 1
+top4_color_hist: ['ukbench00022', 'ukbench09122', 'ukbench09121', 'ukbench09123']
+top4_template_match: ['ukbench00022', 'ukbench09122', 'ukbench01495', 'ukbench01492']
+
+class: duck
+query: ukbench00023.jpg
+score_color_hist: 3
+score_template_match: 3
+top4_color_hist: ['ukbench00023', 'ukbench00020', 'ukbench00021', 'ukbench09120']
+top4_template_match: ['ukbench00023', 'ukbench00287', 'ukbench00021', 'ukbench00020']
+
+class: chair
+query: ukbench00284.jpg
+score_color_hist: 4
+score_template_match: 3
+top4_color_hist: ['ukbench00284', 'ukbench00285', 'ukbench00287', 'ukbench00286']
+top4_template_match: ['ukbench00284', 'ukbench00286', 'ukbench00285', 'ukbench09121']
+
+class: chair
+query: ukbench00285.jpg
+score_color_hist: 4
+score_template_match: 3
+top4_color_hist: ['ukbench00285', 'ukbench00284', 'ukbench00287', 'ukbench00286']
+top4_template_match: ['ukbench00285', 'ukbench00286', 'ukbench01493', 'ukbench00284']
+
+class: chair
+query: ukbench00286.jpg
+score_color_hist: 4
+score_template_match: 3
+top4_color_hist: ['ukbench00286', 'ukbench00287', 'ukbench00285', 'ukbench00284']
+top4_template_match: ['ukbench00286', 'ukbench00284', 'ukbench00285', 'ukbench01493']
+
+class: chair
+query: ukbench00287.jpg
+score_color_hist: 4
+score_template_match: 1
+top4_color_hist: ['ukbench00287', 'ukbench00284', 'ukbench00286', 'ukbench00285']
+top4_template_match: ['ukbench00287', 'ukbench00023', 'ukbench01492', 'ukbench01494']
+
+class: girl
+query: ukbench00720.jpg
+score_color_hist: 4
+score_template_match: 3
+top4_color_hist: ['ukbench00720', 'ukbench00721', 'ukbench00723', 'ukbench00722']
+top4_template_match: ['ukbench00720', 'ukbench00723', 'ukbench00721', 'ukbench09123']
+
+class: girl
+query: ukbench00721.jpg
+score_color_hist: 4
+score_template_match: 4
+top4_color_hist: ['ukbench00721', 'ukbench00720', 'ukbench00723', 'ukbench00722']
+top4_template_match: ['ukbench00721', 'ukbench00723', 'ukbench00720', 'ukbench00722']
+
+class: girl
+query: ukbench00722.jpg
+score_color_hist: 4
+score_template_match: 4
+top4_color_hist: ['ukbench00722', 'ukbench00723', 'ukbench00720', 'ukbench00721']
+top4_template_match: ['ukbench00722', 'ukbench00721', 'ukbench00723', 'ukbench00720']
+
+class: girl
+query: ukbench00723.jpg
+score_color_hist: 4
+score_template_match: 4
+top4_color_hist: ['ukbench00723', 'ukbench00722', 'ukbench00720', 'ukbench00721']
+top4_template_match: ['ukbench00723', 'ukbench00721', 'ukbench00720', 'ukbench00722']
+
+class: painting
+query: ukbench01492.jpg
+score_color_hist: 4
+score_template_match: 4
+top4_color_hist: ['ukbench01492', 'ukbench01495', 'ukbench01494', 'ukbench01493']
+top4_template_match: ['ukbench01492', 'ukbench01493', 'ukbench01495', 'ukbench01494']
+
+class: painting
+query: ukbench01493.jpg
+score_color_hist: 4
+score_template_match: 3
+top4_color_hist: ['ukbench01493', 'ukbench01494', 'ukbench01492', 'ukbench01495']
+top4_template_match: ['ukbench01493', 'ukbench01492', 'ukbench01495', 'ukbench00286']
+
+class: painting
+query: ukbench01494.jpg
+score_color_hist: 4
+score_template_match: 3
+top4_color_hist: ['ukbench01494', 'ukbench01492', 'ukbench01495', 'ukbench01493']
+top4_template_match: ['ukbench01494', 'ukbench01492', 'ukbench01495', 'ukbench09123']
+
+class: painting
+query: ukbench01495.jpg
+score_color_hist: 4
+score_template_match: 4
+top4_color_hist: ['ukbench01495', 'ukbench01492', 'ukbench01494', 'ukbench01493']
+top4_template_match: ['ukbench01495', 'ukbench01492', 'ukbench01493', 'ukbench01494']
+
+class: photos
+query: ukbench09120.jpg
+score_color_hist: 4
+score_template_match: 3
+top4_color_hist: ['ukbench09120', 'ukbench09123', 'ukbench09121', 'ukbench09122']
+top4_template_match: ['ukbench09120', 'ukbench09121', 'ukbench00720', 'ukbench09123']
+
+class: photos
+query: ukbench09121.jpg
+score_color_hist: 4
+score_template_match: 3
+top4_color_hist: ['ukbench09121', 'ukbench09122', 'ukbench09123', 'ukbench09120']
+top4_template_match: ['ukbench09121', 'ukbench09120', 'ukbench00723', 'ukbench09122']
+
+class: photos
+query: ukbench09122.jpg
+score_color_hist: 3
+score_template_match: 4
+top4_color_hist: ['ukbench09122', 'ukbench09121', 'ukbench00022', 'ukbench09123']
+top4_template_match: ['ukbench09122', 'ukbench09123', 'ukbench09121', 'ukbench09120']
+
+class: photos
+query: ukbench09123.jpg
+score_color_hist: 4
+score_template_match: 2
+top4_color_hist: ['ukbench09123', 'ukbench09121', 'ukbench09120', 'ukbench09122']
+top4_template_match: ['ukbench09123', 'ukbench09122', 'ukbench00721', 'ukbench00720']
+
+{'color_histogram_mean': 3.65, 'Template_match_mean': 2.9}
+{'color_histogram_stdDev': 0.7262919523166975, 'Template_match_stdDev': 0.9949874371066201}
